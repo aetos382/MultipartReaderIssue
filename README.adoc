@@ -1,0 +1,15 @@
+== MultipartReaderIssue
+
+This repository contains reproduction code for reporting issues of the link:https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.webutilities.multipartreader[MultipartReader] class.
+
+=== How to reproduce
+
+. `+git clone https://github.com/aetos382/MultipartReaderIssue.git+`
+. `+cd MultipartReaderIssue+`
+. `+dotnet test+`
+
+=== Expected behavior
+[lime]##Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 50 ms##
+
+=== Actual behavior
+[red]##Failed!  - Failed:     1, Passed:     1, Skipped:     0, Total:     2, Duration: 50 ms##
