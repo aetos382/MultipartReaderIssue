@@ -1,6 +1,6 @@
 == MultipartReaderIssue
 
-This repository contains reproduction code for reporting issues of the link:https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.webutilities.multipartreader[MultipartReader] class.
+This repository contains reproduction code for reporting link:https://github.com/dotnet/aspnetcore/issues/31648[issue] of the link:https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.webutilities.multipartreader[MultipartReader] class.
 
 === How to reproduce
 
